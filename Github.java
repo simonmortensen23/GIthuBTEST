@@ -1,15 +1,16 @@
 public class Github{
 
-private int shape=23;
+   private static int shap = 10;
 
    public static void main(String[] args){
    
+   int shape=23;
    
    
    System.out.println("Hej");
    
-   
-   
+   System.out.println("Den skrevne form er: " + shape);
+   System.out.println(shap);
    
    
    }
