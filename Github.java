@@ -9,7 +9,7 @@ public class Github{
    
    System.out.println("Hej");
    
-   System.out.println("Den skrevne form er: " + shape);
+   System.out.println("Den skrevne form1 er: " + shape);
    System.out.println(shap);
    
    
